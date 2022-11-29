@@ -35,7 +35,7 @@ If you’re interested in the project, feel free to open an issue, create a PR, 
 This project is licensed under the MIT License - you can see [LICENSE](https://github.com/Job-and-Scholarship-Updates/blob/master/LICENSE) file for details.
 
 ## Contact Us
- You can also contact me.
+ You can also contact me. <br>
 [GitHub](https://github.com/boradesanket13) <br>
 [Twitter](https://twitter.com/boradesanket13) <br>
 [Medium](https://medium.com/boradesanket13) <br>
