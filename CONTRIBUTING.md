@@ -4,8 +4,7 @@ Our day just got better. Thank you for visiting this repository, it’s our plea
 
 * [Introduction](#introduction)
 * [Why does this project exist?](#why-does-this-project-exist)
-* [What we plan to do about it?](#what-we-plan-to-do-about-it)
-* [How are we doing it?](#how-are-we-doing-it)
+* [What are we doing about it?](#what-are-we-doing-about-it)
 * [Contribution](#contribution)
 * [License](#license)
 * [Contact Us](#contact-us)
@@ -17,9 +16,9 @@ The project is designed to help and guide people who want to get notified about 
 - Lack of awareness about different opportunities available
 - To reduce noise presence on the opportunites and help those who really want to upskill and get hired!
 
-## What we doing about it?
+## What are we doing about it?
 - Send [newsletter](https://www.getrevue.co/profile/boradesanket13) to all the subscribed users to make them aware about different opportunities
-- Create a technical blog section and get inspired section.
+- Create a technical blog section.
 
 ## Contribution
 We need help to see this vision turn into reality. Any help, big or small, with the code, idea, suggestion, feedback, typo, anything at all that you think would be of help, is most welcome and much appreciated.
