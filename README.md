@@ -30,6 +30,6 @@
 
 - [The Global Scholarship](https://t.me/theglobalscholarship)
 
-# Join the [newsletter](https://www.getrevue.co/profile/boradesanket13) to get all latest opportunities in your inbox!
+## Research Internship
 
-
+- [By the bug](https://bythebug.notion.site/Research-Internships-823fc08d8ac9442a993d69dace63b1e0)
